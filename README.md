@@ -26,14 +26,16 @@ The **Liquid Cash 24** standard is a radical commitment to personal resilience. 
 ---
 
 ## 👤 The Individual Requirement: Sovereignty Beyond Relationships
-Relationships are volatile. Whether it is an accident, job loss, or an unexpected life change, shared safety nets can vanish when needed most. 
+Relationships are volatile. Whether it is an accident, job loss, or an unexpected life change, shared safety nets can vanish when needed most. 
 
-**The Aura Impact advocates that every individual 16 years and older must build and maintain their own personal Liquid Cash 24 shield.** **Starting early creates a rock-solid foundation, providing the psychological safety required to take bold risks and proceed on an innovation path throughout life.** **By beginning at 16, an individual removes the "survival pressure" that often stifles visionary thinking.** True psychological safety is found when your foundation does not depend on the stability of another person.
+**The Aura Impact advocates that every individual 16 years and older must build and maintain their own personal Liquid Cash 24 shield.** Starting early creates a rock-solid foundation, providing the psychological safety required to take bold risks and proceed on an innovation path throughout life. By beginning at 16, an individual removes the "survival pressure" that often stifles visionary thinking. True psychological safety is found when your foundation does not depend on the stability of another person.
 
 ---
 
 ## ⚙️ Tiered Liquidity Strategy
 To combat inflation while maintaining instant access, we utilize a **Tiered Laddering** approach.
+
+![Tiered Liquidity Shield](Tiers.png)
 
 ### 💧 Tier 1: Immediate Access (Months 1–3)
 Keep three months of operating expenses in your primary liquid bank account for instant emergency response.

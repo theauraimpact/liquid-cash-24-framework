@@ -47,7 +47,7 @@ Split the remaining 21 months into **multiple smaller Fixed Deposits (FDs)** (e.
 
 ## 🚦 Smart Withdrawal Protocol
 To protect your peace when family or friends are in trouble, follow these rules:
-1. **Personal Survival First**: Never drop your shield below **12 months** to help others.
+1. **Personal Survival First**: Never drop your shield below **12 months** to help others because your ability to continue helping others depends on your own stability.
 2. **Fractional Withdrawal**: Liquidate only the specific FD block needed for the request.
 3. **The Replenishment Mandate**: If the shield is broken for any reason, the top priority is to replenish it back to the 24-month state before any other non-essential spending.
 4. **Dynamic Maintenance**: Your shield must evolve with you; as you add new essential expenses in life, your 24-month fund must be updated to cover them immediately.

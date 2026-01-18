@@ -1,10 +1,8 @@
-# 🛡️ Liquid Cash 24: The Shield of Personal Sovereignty
-
-![Liquid Cash 24 Logo](Logo.png)
+# <img src="Logo.png" width="40" height="40" valign="middle"> Liquid Cash 24: The Shield of Personal Sovereignty
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 
-In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.github.io/golden-runway-framework/), solve the systemic problem of corporate offboarding.
+In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.github.io/golden-runway-framework/), solves the systemic problem of corporate offboarding.
 
 **Liquid Cash 24** is the personal counterpart—an individual blueprint to ensure that no matter what happens in the global economy, your peace remains intact.
 
@@ -13,8 +11,8 @@ In our mission at **The Aura Impact**, we believe true innovation happens when t
 ## ⚠️ The Problem: "Legacy" Financial Fragility
 Conventional financial advice pushes every spare dollar into "growth" vehicles. In an era of rapid disruption, this is a **legacy mindset**:
 * **Paper-Rich, Cash-Poor:** Locking capital into illiquid assets creates a prisoner state.
-* **The Reality Gap:** You cannot pay for groceries with a locked retirement account or a piece of real estate without massive delays or losses.
-* **Systemic Disruption:** If your industry shifts overnight, you need time, not just "net worth."
+* **The Reality Gap:** You cannot pay for groceries with a locked retirement account or real estate without massive delays or losses.
+* **Systemic Disruption:** If your industry shifts overnight, you need time leverage, not just "net worth."
 
 ---
 
@@ -40,7 +38,7 @@ Keep three months of operating expenses in your primary liquid bank account for 
 
 ### 🧱 Tier 2: The Laddered Shield (Months 4–24)
 Split the remaining 21 months into **multiple smaller Fixed Deposits (FDs)** (e.g., 1-month or 3-month blocks).
-* **The Benefit:** If you need cash, you only **break one small FD**, preserving interest on the rest of your shield.
+* **The Benefit:** If you need cash, you only **break one small Fixed Deposit**, preserving interest on the rest of your shield.
 * **Inflation Hedge:** As FDs mature, they are reinvested at current market rates.
 
 ---

@@ -1,10 +1,12 @@
-# <img src="Logo.png" width="40" height="40" valign="middle"> Liquid Cash 24: The Shield of Personal Sovereignty
+# <img src="LiquidCash24_Logo.png" width="40" height="40" valign="middle"> Liquid Cash 24: The Sovereign Standard for Resilience
+
+![Status](https://img.shields.io/badge/Status-Draft_v1.1-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 
 In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.github.io/golden-runway-framework/), solves the systemic problem of corporate offboarding.
 
-**Liquid Cash 24** is the personal counterpart—an individual blueprint to ensure that no matter what happens in the global economy, your peace remains intact.
+**Liquid Cash 24** is the personal counterpart—a sovereign standard to ensure that no matter what happens in the global economy, your peace remains intact.
 
 ---
 
@@ -16,14 +18,14 @@ Conventional financial advice pushes every spare dollar into "growth" vehicles. 
 
 ---
 
-## 🛡️ The Solution: The "Liquid Cash 24" Rule
-The **Liquid Cash 24** rule is a radical commitment to personal resilience. It states:
+## 🛡️ The Sovereign Standard: The "Liquid Cash 24" Goal
+The **Liquid Cash 24** standard is a radical commitment to personal resilience. It states:
 
 > **Maintain 24 months of your absolute essential operating expenses in pure, liquid cash before engaging in any other form of investment.**
 
 ---
 
-## 👤 The Individual Mandate: Sovereignty Beyond Relationships
+## 👤 The Individual Requirement: Sovereignty Beyond Relationships
 Relationships are volatile. Whether it is an accident, job loss, or an unexpected life change, dependencies can vanish when needed most. 
 
 **The Aura Impact advocates that every individual 16 years and older must build and maintain their own personal Liquid Cash 24 shield.** True psychological safety is found when your foundation does not depend on the stability of another person.
@@ -81,11 +83,18 @@ To protect your peace when family or friends are in trouble, follow these rules:
 
 ---
 
-## 🤝 Collaborate With Us
-We are architects & hands-on coders building everlasting models. 
-**The Aura Impact: Designing Systems with Soul.**
+## 🤝 Contributing
+We believe the best standards are built collectively.
+* **Found a loophole?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
+* **Have a better calculation for "Shield Number"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
+* **Want to discuss?** Join the conversation on our social channels.
 
-📩 **Pitch your idea:** [theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)
+## 🌐 Connect & Learn
+* **YouTube:** [The Aura Impact Channel](https://www.youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
+* **LinkedIn:** [The Aura Impact Page](https://www.linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
+* **Instagram:** [The Aura Impact](https://www.instagram.com/theauraimpact) – *Awareness and community.*
 
-**Follow the Journey:**
-[YouTube](https://www.youtube.com/@theauraimpact) | [Instagram](https://www.instagram.com/theauraimpact/) | [LinkedIn](https://www.linkedin.com/company/theauraimpact/) | [GitHub](https://github.com/theauraimpact/)
+---
+
+## ⚠️ Disclaimer
+*This framework is for educational and informational purposes only. It does not constitute professional financial, legal, or investment advice. The Sovereign Standard is a personal discipline framework; individuals should consult with a certified financial advisor before making significant financial decisions.

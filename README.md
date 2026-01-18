@@ -6,7 +6,7 @@
 
 In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.github.io/golden-runway-framework/), solves the systemic problem of corporate offboarding by providing a compassionate transition for employees and an **Innovation Warranty** for employers.
 
-**Liquid Cash 24** is the personal counterpart—a sovereign standard to ensure that your peace remains intact, regardless of global economy shifts or unforeseen personal crises such as job loss, medical disability, accidents, or the volatility of domestic life.
+**Liquid Cash 24** is the personal counterpart—a sovereign standard to ensure that your peace remains intact, regardless of global economy shifts or unforeseen personal crises such as **job loss**, medical disability, accidents, or the volatility of domestic life.
 
 ---
 

@@ -1,6 +1,6 @@
 # <img src="LiquidCash24_Logo.png" width="40" height="40" valign="middle"> Liquid Cash 24: The Sovereign Standard for Resilience
 
-![Status](https://img.shields.io/badge/Status-Draft_v1.1-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
+![Status](https://img.shields.io/badge/Status-Draft_v1.0-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 

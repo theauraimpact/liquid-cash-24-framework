@@ -106,8 +106,8 @@ Focus on Tier 1 (3 months) first, then gradually build your FD ladder.
 
 ## 🤝 Contributing
 We believe the best standards are built collectively.
-* **Found a loophole?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
-* **Have a better calculation for "Shield Number"?** Email **[theauraimpact@gmail.com](mailto:theauraimpact@gmail.com)**
+* **Found a loophole?** Email **[collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io)**
+* **Have a better calculation for "Shield Number"?** Email **[collaborate@theauraimpact.io](mailto:collaborate@theauraimpact.io)**
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn

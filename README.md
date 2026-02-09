@@ -1,6 +1,6 @@
-# <img src="LiquidCash24_Logo.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Liquid Cash 24
+# <img src="LiquidCash24_Logo.png" width="60" height="60" style="vertical-align: middle; margin-right: 15px;"> Liquid Cash 24
 
-![Status](https://img.shields.io/badge/Status-Draft_v1.0-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0-D4AF37) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 

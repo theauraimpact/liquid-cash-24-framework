@@ -118,4 +118,5 @@ We believe the best standards are built collectively.
 ---
 
 ## ⚖️ Disclaimer
-*This framework is for educational and informational purposes only. It does not constitute professional financial, legal, or investment advice. The Sovereign Standard is a personal discipline framework; individuals should consult with a certified financial advisor before making significant financial decisions.*
+*This framework does not constitute professional financial, legal, or investment advice. The Sovereign Standard is a personal discipline framework; individuals should consult with a certified financial advisor before making significant financial decisions.*
+

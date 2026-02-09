@@ -1,4 +1,4 @@
-# <img src="LiquidCash24_Logo.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Liquid Cash 24: The Sovereign Standard for Resilience
+# <img src="LiquidCash24_Logo.png" width="80" height="80" style="vertical-align: middle; margin-right: 20px;"> Liquid Cash 24
 
 ![Status](https://img.shields.io/badge/Status-Draft_v1.0-orange) ![License](https://img.shields.io/badge/License-Open_Source-blue)
 

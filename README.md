@@ -4,7 +4,7 @@
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 
-In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.github.io/golden-runway-framework/), solves the systemic problem of corporate offboarding by providing a compassionate transition for employees and an **Innovation Warranty** for employers.
+In our mission at **The Aura Impact**, we believe true innovation happens when technology elevates humanity. Our flagship initiative, the [Golden Runway Framework](https://theauraimpact.io/projects/golden-runway-framework), solves the systemic problem of corporate offboarding by providing a compassionate transition for employees and an **Innovation Warranty** for employers.
 
 **Liquid Cash 24** is the personal counterpart—a sovereign standard to ensure that your peace remains intact, regardless of global economy shifts or unforeseen personal crises such as **job loss**, medical disability, accidents, or the volatility of domestic life.
 
@@ -114,7 +114,6 @@ We believe the best standards are built collectively.
 * **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
 * **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
 * **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpact) – *Awareness and community.*
-* **Website:** [The Aura Impact Platform](https://theauraimpact.io) - *Open source collaboration platform.*
 
 ---
 

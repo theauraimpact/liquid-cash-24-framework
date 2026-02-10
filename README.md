@@ -1,19 +1,20 @@
 # <img src="LiquidCash24_Logo.png" width="60" height="60" style="vertical-align: middle; margin-right: 15px;"> Liquid Cash 24
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1.5rem;">
-  <span style="border: 1px solid #4c1; color: #4c1; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+  <span style="border: 1px solid #00ff88; color: #00d171; padding: 2px 12px; border-radius: 9999px; font-size: 0.75rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
     Status: Active 🟢
   </span>
   
-  <span style="border: 1px solid #D4AF37; color: #D4AF37; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+  <span style="border: 1px solid #D4AF37; color: #b8860b; padding: 2px 12px; border-radius: 9999px; font-size: 0.75rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
     Version: 1.0 ⭐
   </span>
 
-  <span style="border: 1px solid #007bff; color: #007bff; padding: 1px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+  <span style="border: 1px solid #007bff; color: #2563eb; padding: 2px 12px; border-radius: 9999px; font-size: 0.75rem; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
     License: Open Source 📜
   </span>
 </div>
 
+<hr style="border: 0; height: 1px; background: #e1e4e8; margin: 2rem 0; opacity: 0.6;">
 
 > **"Chasing 10% returns at the cost of 100% of your peace is a bad trade. It is time to upgrade the system."**
 

@@ -112,7 +112,7 @@ We believe the best standards are built collectively.
 ## 🌐 Connect & Learn
 * **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@TheAuraImpact) – *Deep dives and explainer videos.*
 * **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpact) – *Corporate announcements and networking.*
-* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpact) – *Awareness and community.*
+* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpactpbc) – *Awareness and community.*
 
 ---
 

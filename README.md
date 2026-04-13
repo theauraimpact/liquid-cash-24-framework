@@ -110,9 +110,9 @@ We believe the best standards are built collectively.
 * **Want to discuss?** Join the conversation on our social channels.
 
 ## 🌐 Connect & Learn
-* **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@theauraimpactpbc) – *Deep dives and explainer videos.*
-* **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpactpbc) – *Corporate announcements and networking.*
-* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpactpbc) – *Awareness and community.*
+* **YouTube**: [The Aura Impact Channel](https://www.youtube.com/@theauraimpactglobalpbc) – *Deep dives and explainer videos.*
+* **LinkedIn**: [The Aura Impact Page](https://www.linkedin.com/company/theauraimpactglobalpbc) – *Corporate announcements and networking.*
+* **Instagram**: [The Aura Impact](https://www.instagram.com/theauraimpactglobalpbc) – *Awareness and community.*
 
 ---
 
